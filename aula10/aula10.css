@@ -1,0 +1,37 @@
+#meuelemento{
+width: 200px;/*estilizacao da div || uso da # por conta do iD*/
+height:200px;/*height*/
+background-color: rgb(252, 175, 9);/*cor */ 
+}
+.square{
+border-radius: 0%;/*sera usado para tornar a caixa quadrada sem border Radius*/
+}
+.circle{
+    border-radius: 100%;/*essa estilizacao entrara em vigor quando tornaremos a caixa redonda*/ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

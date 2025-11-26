@@ -9,8 +9,5 @@ if (idade >=18) { // aqui , o js pregunta :idade é maior ou igaul a 18 se sim ,
 else {
     console.log ("voce é menor de idade");
 }
+// o "else" é usando quando queremos dizer:"se a condição de if não for verdadeira ,faça outra coisa " se o if for falso ,automaticamente o else é executado
 
-
-// o "ELSE" "É USADO QUANDO DIZER : 
-// SE A CODICÃO DE IF NAO FOR VERDADEIRA , FACA OUTRA COISA" 
-// SE O IF FOR FALSO AUTOMATICAMENTE O ELSE É EXECUTADO  

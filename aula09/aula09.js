@@ -3,6 +3,6 @@ if (interruptor === "ligado") {
 console.log ("A luz esta acesa");
 
 }
-else{
+else{ 
     console.log("A luz esta apagada"); 
 }
