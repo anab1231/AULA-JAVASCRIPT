@@ -1,0 +1,70 @@
+/* ESTILO BASE */
+.boby{
+font-family: Arial, sans-serif;
+padding: 20px;
+background-color: aliceblue;
+color: #222;
+transition: 0.3s;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+padding: 10px;
+border: none;
+cursor: pointer;
+font-size: 18px;
+}
+section{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+/* card interativo */
+.card{
+    width:250px;
+    height: 150px;
+    background-color: rgb(252, 249, 249);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    transition: 0.5s;
+    box-shadow: 0 0 10px #00000022;
+}
+/*Modo escuro*/
+.dark{
+    background-color: #181818;
+    color: white;
+}
+.dark .card{
+background-color: #333;
+color: white;
+}
+.section-02{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+}
+.card2{
+  width:250px;
+    height: 150px;
+    background-color: rgb(95, 93, 93);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    transition: 0.5s;
+    box-shadow: 0 0 10px #00000022;
+    color: rgb(255, 251, 251);
+
+
+}
+
